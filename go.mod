@@ -1,4 +1,4 @@
-module github.com/kei01234kei/test-server
+module github.com/kei01234kei/mock-server
 
 go 1.21.4
 
